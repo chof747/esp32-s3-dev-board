@@ -1,0 +1,6 @@
+*.*bak
+*-backups
+fp-info-cache
+#auto_saved_files#
+jlcpcb/gerber
+jlcpcb/assembly
