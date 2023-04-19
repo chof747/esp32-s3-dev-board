@@ -30,4 +30,9 @@ logger:
   logs:
     sensor: INFO
     adc: INFO
+
+interval:
+  - interval: 5s
+    then:
+      - logger.log: Hello!
     
