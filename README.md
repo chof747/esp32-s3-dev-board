@@ -15,3 +15,4 @@ It contains the following elements:
 ## Revision History:
 
 - **v1.0**: Initial version (filed for fabrication: 19.11.2022, first successfull assembly: 29.11.2022)
+- **v1.1**: Changed serial programmer to UMH3 chip and added boot button
