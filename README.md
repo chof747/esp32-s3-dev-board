@@ -8,6 +8,7 @@ It contains the following elements:
 - Power LED
 - Fuse to prevent the worse
 - Jumper to disconnect 3v3 from the programmer to be able to test e.g. battery mode while still debugging
+- A 3V3 regulator to allow connection via an USB Breakout
 
 
 ## Used Parts:
@@ -16,3 +17,4 @@ It contains the following elements:
 
 - **v1.0**: Initial version (filed for fabrication: 19.11.2022, first successfull assembly: 29.11.2022)
 - **v1.1**: Changed serial programmer to UMH3 chip and added boot button
+- **v1.2**: Changed to slim version that fits on a breadboard leaving one row of connections on the left and right.
