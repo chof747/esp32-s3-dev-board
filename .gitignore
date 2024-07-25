@@ -6,3 +6,5 @@ fp-info-cache
 jlcpcb/*.zip
 jlcpcb/gerber
 jlcpcb/assembly
+production/
+fabrication-toolkit-options.json
